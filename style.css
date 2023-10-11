@@ -1,0 +1,66 @@
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+.chorus {
+    font-size: 18px; 
+    color: #000000; 
+    text-shadow: 4px 4px 4px #ffffff;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+    
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+    color: rgb(239, 252, 55);
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.lyrics {
+    background-color: rgb(255, 244, 141);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   
+}
+
+/* Styles for the lyrics */
+.lyrics p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.phase2 {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.id {
+    width: "420px" ;
+    height: "315px";
+}
